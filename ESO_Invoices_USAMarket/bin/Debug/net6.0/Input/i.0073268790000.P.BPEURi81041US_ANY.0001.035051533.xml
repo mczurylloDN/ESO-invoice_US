@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RadiantDocument>
+<InvoiceList>
+<Invoice InvoiceDate="2021-08-06" InvoiceNumber="64576535">
+<SupplierData SupplierEDINumber="0073268790000"/>
+<BusinessUnitData BusinessUnitEDINumber="07029" BusinessUnitName="BP PRODUCTS NORTH AMERICA INC">
+<BusinessUnitAddress>
+<AddressLine1>4000 SUNRISE BLVD</AddressLine1>
+<City>RANCHO CORDOVA</City>
+<State>CA</State>
+<PostalCode>957426907</PostalCode>
+<Country>U.S</Country>
+</BusinessUnitAddress>
+</BusinessUnitData>
+<ItemList>
+<Item Cost="0.3377" Name=".59 GAM MAMUT" ProductCode="34536" Quantity="10" UnitOfMeasure="EA"/>
+<Item Cost="0.5583" Name=".99 MN HOT PEANUTS" ProductCode="11683" Quantity="8" UnitOfMeasure="EA"/>
+<Item Cost="0.5583" Name=".99 MN SLT PEANUTS" ProductCode="10877" Quantity="8" UnitOfMeasure="EA"/>
+<Item Cost="0.6272" Name="1.09 GM CHOC BRWN COKI BRWN COK BRWN COK BRWN COK BRWN COK BRWN COK" ProductCode="25942" Quantity="5" UnitOfMeasure="EA"/>
+<Item Cost="0.6272" Name="1.09 PNB BIG COKI" ProductCode="25955" Quantity="5" UnitOfMeasure="EA"/>
+<Item Cost="0.6272" Name="1.09 CHOC CHIP BC" ProductCode="25955" Quantity="5" UnitOfMeasure="EA"/>
+<Item Cost="0.8588" Name="1.0 MA ORIG STICK" ProductCode="60125" Quantity="15" UnitOfMeasure="EA"/>
+<Item Cost="0.8588" Name="1.0 MA HOT STICK" ProductCode="60126" Quantity="15" UnitOfMeasure="EA"/>
+<Item Cost="1.0036" Name="1.49 BN HT SPCY" ProductCode="33112" Quantity="4" UnitOfMeasure="EA"/>
+<Item Cost="1.2448" Name="1.99 NH SPICY PIST" ProductCode="30945" Quantity="8" UnitOfMeasure="EA"/>
+<Item Cost="1.2448" Name="1.99 NH MIX NUTS" ProductCode="03402" Quantity="8" UnitOfMeasure="EA"/>
+<Item Cost="1.3413" Name="1.99 LB REG" ProductCode="32382" Quantity="12" UnitOfMeasure="EA"/>
+<Item Cost="1.3413" Name="1.99 LB SLT &amp; VIN" ProductCode="32385" Quantity="4" UnitOfMeasure="EA"/>
+<Item Cost="1.3413" Name="1.99 LB CHL LIM" ProductCode="32390" Quantity="4" UnitOfMeasure="EA"/>
+<Item Cost="1.3413" Name="1.99 LB BBQ" ProductCode="32420" Quantity="12" UnitOfMeasure="EA"/>
+<Item Cost="1.3413" Name="1.99 DR DM CHILE" ProductCode="32517" Quantity="9" UnitOfMeasure="EA"/>
+<Item Cost="1.3413" Name="1.99 FR HNY BBQ" ProductCode="32728" Quantity="4" UnitOfMeasure="EA"/>
+<Item Cost="1.3413" Name="1.99 CT FLAMIN HOT" ProductCode="32949" Quantity="12" UnitOfMeasure="EA"/>
+<Item Cost="1.3413" Name="1.99 CS HOT FRIES" ProductCode="33152" Quantity="12" UnitOfMeasure="EA"/>
+<Item Cost="1.3413" Name="1.99 SM CHD REG" ProductCode="33179" Quantity="4" UnitOfMeasure="EA"/>
+<Item Cost="1.3413" Name="1.99 MT LKC HOT" ProductCode="30965" Quantity="4" UnitOfMeasure="EA"/>
+<Item Cost="1.3413" Name="1.99 KET JAL" ProductCode="32487" Quantity="4" UnitOfMeasure="EA"/>
+<Item Cost="1.3413" Name="1.99 RF QUESO" ProductCode="32443" Quantity="8" UnitOfMeasure="EA"/>
+<Item Cost="1.3413" Name="1.99 DR 3D CHN" ProductCode="51858" Quantity="4" UnitOfMeasure="EA"/>
+<Item Cost="1.3413" Name="1.99 SHP DR TGR" ProductCode="68207" Quantity="12" UnitOfMeasure="EA"/>
+<Item Cost="1.3413" Name="1.99 DR HOT LIM" ProductCode="30698" Quantity="4" UnitOfMeasure="EA"/>
+<Item Cost="1.3413" Name="1.99 DR NAC" ProductCode="32505" Quantity="38" UnitOfMeasure="EA"/>
+<Item Cost="1.3413" Name="1.99 DR SPY NAC" ProductCode="32508" Quantity="4" UnitOfMeasure="EA"/>
+<Item Cost="1.3413" Name="1.99 DR TAP" ProductCode="32513" Quantity="8" UnitOfMeasure="EA"/>
+<Item Cost="1.3413" Name="1.99 DR CRA" ProductCode="32504" Quantity="26" UnitOfMeasure="EA"/>
+<Item Cost="1.6212" Name="2.29 CS HOT FRIES" ProductCode="04144" Quantity="4" UnitOfMeasure="EA"/>
+<Item Cost="1.6212" Name="2.29 MT CS HOT PUFF" ProductCode="04189" Quantity="3" UnitOfMeasure="EA"/>
+<Item Cost="1.6212" Name="2.29 BN HSP" ProductCode="61673" Quantity="2" UnitOfMeasure="EA"/>
+<Item Cost="2.2195" Name="3.29 HOT MUN SNM" ProductCode="08405" Quantity="3" UnitOfMeasure="EA"/>
+<Item Cost="2.3546" Name="3.49 MT KET JAL" ProductCode="37185" Quantity="2" UnitOfMeasure="EA"/>
+<Item Cost="2.6923" Name="3.99 FY REG" ProductCode="24018" Quantity="4" UnitOfMeasure="EA"/>
+<Item Cost="2.6923" Name="3.79 LB BBQ" ProductCode="19961" Quantity="2" UnitOfMeasure="EA"/>
+<Item Cost="2.8950" Name="4.29 DR CRA" ProductCode="51631" Quantity="3" UnitOfMeasure="EA"/>
+<Item Cost="2.8950" Name="4.29 DR FLH NAC" ProductCode="51644" Quantity="2" UnitOfMeasure="EA"/>
+<Item Cost="2.8950" Name="4.29 RF CSC" ProductCode="51691" Quantity="2" UnitOfMeasure="EA"/>
+</ItemList>
+<Total>382.0000</Total>
+</Invoice>
+</InvoiceList>
+</RadiantDocument>

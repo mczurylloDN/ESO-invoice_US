@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RadiantDocument>
+<InvoiceList>
+<Invoice InvoiceDate="2021-08-11" InvoiceNumber="3143886107">
+<SupplierData SupplierEDINumber="008289373" SupplierName="GreatLakes Reyes Bottling">
+<SupplierAddress>
+<AddressLine1>6250 N River Rd STE 9000</AddressLine1>
+<City>Rosemont</City>
+<State>IL</State>
+<PostalCode>600184241</PostalCode>
+<Country>US</Country>
+</SupplierAddress>
+</SupplierData>
+<BusinessUnitData BusinessUnitEDINumber="07099" BusinessUnitName="AMPM #7099">
+<BusinessUnitAddress>
+<AddressLine1>4420 E MACK RD</AddressLine1>
+<City>SACRAMENTO</City>
+<State>CA</State>
+<PostalCode>95823</PostalCode>
+<Country>US</Country>
+</BusinessUnitAddress>
+</BusinessUnitData>
+<ReferencedDocument DeliveryDate="2021-08-10" DocumentTypeCode="p" DocumentTypeName="Purchase Order" PurchaseOrderDate="2021-08-11" PurchaseOrderNumber="1154"/>
+<ItemList>
+<Item Cost="16.2000" Name="28Z PT 12LS_BDYARMR LYTE PEACH MNG" ProductCode="156132" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="13.2000" Name="1L PT 12LS_BDYARMR SPRT WTR" ProductCode="156136" Quantity="2" UnitOfMeasure="CA"/>
+<Item Cost="16.2000" Name="28Z PT 12LS_BDYARMR SPRDRNK WMLN SBRY" ProductCode="156128" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="16.2000" Name="28Z PT 12LS_BDYARMR SPRDRNK BLKOT BRY" ProductCode="156128" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="16.2000" Name="28Z PT 12LS_BDYARMR SPRDRNK FRT PNCH" ProductCode="156125" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="16.2000" Name="28Z PT 12LS_BDYARMR SPRDRNK SBRY BAN" ProductCode="156124" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="33.9200" Name="20Z PT 24LS_COKE" ProductCode="119826" Quantity="2" UnitOfMeasure="CA"/>
+<Item Cost="33.9200" Name="20Z PT 24LS_COKE ZRO SGR" ProductCode="121765" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="15.8500" Name="12Z CN SLK 12LS_COKE W COF DRK BLND" ProductCode="157440" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="14.6400" Name="2L PT 8LS PS_COKE CHRY" ProductCode="153323" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="13.6000" Name="12Z CN 12FP_COKE" ProductCode="115583" Quantity="4" UnitOfMeasure="CA"/>
+<Item Cost="14.6400" Name="2L PT 8LS_COKE" ProductCode="136174" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="28.6800" Name="14Z PT 12LS_COR PWR PRTNCHOCELITE42G" ProductCode="151817" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="28.6800" Name="14Z PT 12LS_COR PWR PRTNSBRYELITE42G" ProductCode="157128" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="33.9200" Name="20Z PT 24LS_DT COKE" ProductCode="119827" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="14.6400" Name="2L PT 8LS PS_FANTA ORG" ProductCode="153305" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="33.9200" Name="20Z PT 24LS_FANTA PAPL" ProductCode="114757" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="33.9200" Name="20Z PT 24LS_FANTA SBRY" ProductCode="115314" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="21.6000" Name="1.5L PT 12LS_SMTWTR" ProductCode="129253" Quantity="2" UnitOfMeasure="CA"/>
+<Item Cost="16.9200" Name="1L PT 12LS_SMTWTR ALKN" ProductCode="155970" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="16.3200" Name="23.7Z PT 12LS_SMTWTR DANDELION LMN" ProductCode="410314" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="19.6000" Name="32Z PT 15LS_VW NRG" ProductCode="129262" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="19.6000" Name="32Z PT 15LS_VW XXX" ProductCode="130629" Quantity="2" UnitOfMeasure="CA"/>
+<Item Cost="19.6000" Name="32Z PT 15LS_VW PWR C" ProductCode="129258" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="29.7600" Name="12Z PT 24LS_MM JTG APL J100" ProductCode="154900" Quantity="2" UnitOfMeasure="CA"/>
+<Item Cost="32.8200" Name="16Z CN 24LS_MON NRG" ProductCode="133129" Quantity="2" UnitOfMeasure="CA"/>
+<Item Cost="32.8200" Name="16Z CN 24LS_MON NRG PCFC PNCH" ProductCode="155811" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="32.8200" Name="16Z CN 24LS_MON NRG ZRO SGR" ProductCode="137400" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="32.8200" Name="16Z CN 24LS_MON NRG ZRO ULTRA" ProductCode="145105" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="32.8200" Name="16Z CN 24LS_MON NRG J MNG LOCO" ProductCode="153389" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="28.3200" Name="24Z CN 12LS_MON NRG ULTRA FIESTA" ProductCode="410650" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="29.6000" Name="16Z CN 24LS_NOS NRG" ProductCode="152196" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="13.6000" Name="12Z CN 12FP_SPRITE" ProductCode="115586" Quantity="2" UnitOfMeasure="CA"/>
+<Item Cost="20.9500" Name="1L PT 12LS_SPRITE" ProductCode="101998" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="33.9200" Name="20Z PT 24LS_SPRITE" ProductCode="103029" Quantity="2" UnitOfMeasure="CA"/>
+<Item Cost="14.6400" Name="2L PT 8LS_SPRITE" ProductCode="136215" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="33.9200" Name="20Z PT 24LS_SPRITE GNGR" ProductCode="157091" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="33.9200" Name="20Z PT 24LS_SPRITE LYMND" ProductCode="156162" Quantity="1" UnitOfMeasure="CA"/>
+<Item Cost="14.9200" Name="20Z PT 12LS_VW NRG" ProductCode="156091" Quantity="2" UnitOfMeasure="CA"/>
+<Item Cost="14.8800" Name="14Z PT 12LS_YUP CHOC MLK" ProductCode="151091" Quantity="1" UnitOfMeasure="CA"/>
+</ItemList>
+<Total>1194.8400</Total>
+</Invoice>
+</InvoiceList>
+</RadiantDocument>

@@ -1,0 +1,15 @@
+C:\Users\jose.frutos\Desktop\Frank Session\ESO_Invoices_USAMarket\bin\Debug\net6.0\ESO_Invoices_US.exe
+C:\Users\jose.frutos\Desktop\Frank Session\ESO_Invoices_USAMarket\bin\Debug\net6.0\ESO_Invoices_US.deps.json
+C:\Users\jose.frutos\Desktop\Frank Session\ESO_Invoices_USAMarket\bin\Debug\net6.0\ESO_Invoices_US.runtimeconfig.json
+C:\Users\jose.frutos\Desktop\Frank Session\ESO_Invoices_USAMarket\bin\Debug\net6.0\ESO_Invoices_US.dll
+C:\Users\jose.frutos\Desktop\Frank Session\ESO_Invoices_USAMarket\bin\Debug\net6.0\ESO_Invoices_US.pdb
+C:\Users\jose.frutos\Desktop\Frank Session\ESO_Invoices_USAMarket\obj\Debug\net6.0\ESO_Invoices_US.csproj.AssemblyReference.cache
+C:\Users\jose.frutos\Desktop\Frank Session\ESO_Invoices_USAMarket\obj\Debug\net6.0\ESO_Invoices_US.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.frutos\Desktop\Frank Session\ESO_Invoices_USAMarket\obj\Debug\net6.0\ESO_Invoices_US.AssemblyInfoInputs.cache
+C:\Users\jose.frutos\Desktop\Frank Session\ESO_Invoices_USAMarket\obj\Debug\net6.0\ESO_Invoices_US.AssemblyInfo.cs
+C:\Users\jose.frutos\Desktop\Frank Session\ESO_Invoices_USAMarket\obj\Debug\net6.0\ESO_Invoices_US.csproj.CoreCompileInputs.cache
+C:\Users\jose.frutos\Desktop\Frank Session\ESO_Invoices_USAMarket\obj\Debug\net6.0\ESO_Invoices_US.dll
+C:\Users\jose.frutos\Desktop\Frank Session\ESO_Invoices_USAMarket\obj\Debug\net6.0\refint\ESO_Invoices_US.dll
+C:\Users\jose.frutos\Desktop\Frank Session\ESO_Invoices_USAMarket\obj\Debug\net6.0\ESO_Invoices_US.pdb
+C:\Users\jose.frutos\Desktop\Frank Session\ESO_Invoices_USAMarket\obj\Debug\net6.0\ESO_Invoices_US.genruntimeconfig.cache
+C:\Users\jose.frutos\Desktop\Frank Session\ESO_Invoices_USAMarket\obj\Debug\net6.0\ref\ESO_Invoices_US.dll
